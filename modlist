@@ -1,0 +1,82 @@
+1.18.2 Forge, no clue if these mods are available on newer/older versions
+*Probably* don't need to download all the lib/core/API mods, I'm sure whatever mod requires them will download it automatically, but if not, then you can use this to check which are missing.
+
+Advanced Netherite
+AppleSkin
+Architectury API
+AutoRegLib
+Balm (Forge Edition)
+Bonsai Trees 3
+Bookshelf
+Builder's Delight (Forge)
+Builders Crafts & Additions
+Caelus API (Forge)
+Caged Mobs
+Camera Mod
+Canary
+Charms
+Clumps
+CoFH Core
+Configured
+Curios API (Forge)
+Cyclic
+Dank Storage
+Decorative Blocks
+Easy Villagers
+Effortless Building
+Elytra Slot (Forge)
+Enchantment Descriptions
+Extra Disks
+Farmer's Delight
+Fast Leaf Decay
+FastFurnace
+Industrial Foregoing
+Industrial Renewal Port
+Iron Furnaces
+Jade
+JourneyMap
+Just Another Rotten Flesh to Leather Mod
+Just Enough Items
+Just Enough Resources
+Libnonymous
+Macaw's Doors
+Macaw's Furniture
+Macaw's Lights and Lamps
+Macaw's Trapdoors
+McJtyLib
+Mekanism
+Mekanism Generators
+Mekanism Tools
+Moonlight Lib
+More Minecarts and Rails
+MrCrayfish's Furniture Mod
+Nature's Compass
+OpenBlocks Elevator
+Patchouli
+Placebo
+Quark
+Refined Storage
+RFTools Base
+RFTools Power
+Rubidium -- performance mod (Forge port of sodium)
+Saturn -- performance mod
+Signpost
+Simply Light
+Small Ships
+Smooth Boot -- performance mod
+Sophisticated Backpacks
+Sophisticated Core
+spark
+Storage Drawers
+SuperMartjn642's Config Lib
+SuperMartjn642's Core Lib
+Supplementaries
+Thermal Dynamics
+Thermal Expansion
+Thermal Foundation
+Titanium -- I forgot which mod had Titanium as a dependency, but make sure that the Titanium version is 3.5.8. If you use the curseforge app, it likes to download 3.5.7 by default, so just double check to make sure it's 3.5.8
+Touhou Little Maid
+Trash Cans
+TwerkItMeal
+Waystones
+Zaynen's Craftable Slimeball mMod
